@@ -1,5 +1,10 @@
 # vue_algolia_search
 
+## Setup
+```sh
+$ mv algolia.config.sample.js algolia.config.js
+```
+
 ## Project setup
 ```
 yarn install
